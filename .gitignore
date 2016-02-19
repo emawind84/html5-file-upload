@@ -1,0 +1,5 @@
+.DS_Store
+.jshintrc
+*.pyc
+node_modules/
+typings/
